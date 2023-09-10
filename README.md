@@ -1,5 +1,4 @@
 # Python XML Data Refiner
 
-## Installtion
+## Installation
 run 'python install -r readme.txt'
-
